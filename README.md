@@ -16,3 +16,8 @@ Its One Of The Fastest Nuker, Can Bypass Some Bots Also, setup.bat file is taken
 
 MAIN ID:
 https://discord.com/users/927512179261964298
+
+
+https://user-images.githubusercontent.com/102971549/212102505-6ecaaa64-45a3-4abc-bb1c-c65434134c9e.png
+
+
