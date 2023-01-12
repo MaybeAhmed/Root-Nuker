@@ -1,0 +1,11 @@
+{
+    "TOKEN": "YOUR TOKEN OR BOT TOKEN HERE",
+    "PROXIES": false,
+    "SPAM_PRN": true,
+    "SERVER_NAME": "Wizzed By RootPlayZ",
+    "AMMOUNT_OF_CHANNELS": 15,
+    "MESSAGES_PER_CHANNEL": 25,
+    "PREFIX": "root",
+    "MESSAGE": "@everyone Server Fucked By RootPlayZ",
+    "CHANNEL_NAMES": "Root Was Here"
+    }
