@@ -12,7 +12,7 @@ Step 4.) Nuke
 Dont sell to kids
 Dont Change Anythinf in main.py
 I'm also sick of making good readme's so its gonna stay like this.
-Its One Of The Fastest Nuker, Can Bypass Some Bots Also, setup.bat file is taken by k.dot
+Its One Of The Fastest Nuker, Can Bypass Some Bots Also.
 
 MAIN ID:
 https://discord.com/users/927512179261964298
